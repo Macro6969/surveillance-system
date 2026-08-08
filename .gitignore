@@ -1,0 +1,4 @@
+.env/
+__pycache__/
+person.png
+*.mp4
