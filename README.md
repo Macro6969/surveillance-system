@@ -18,7 +18,7 @@ A lightweight, multi-threaded surveillance application that combines deep learni
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/surveillance-system.git
+   git clone https://github.com/Macro6969/surveillance-system.git
    cd "surveillance system"
    ```
 
